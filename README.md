@@ -17,7 +17,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=AlessioMontebello90&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 
 ## 'Argomenta come se avessi ragione e ascolta come se avessi torto'
 
