@@ -22,7 +22,7 @@ Mobile developer specializzato nella creazione di esperienze utente intuitive e 
 const alessio = {
   location: "Milano, Italia 🇮🇹",
   currentFocus: ["React Native", "Expo", "TypeScript", "UI/UX"],
-  workingOn: "Mobile loyalty applications",
+
   learning: ["React Fundamentals", "Advanced TypeScript", "Mobile Performance"],
   hobbies: ["D&D 🎲", "Running 🏃‍♂️", "Tech Communities"],
 };
