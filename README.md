@@ -72,17 +72,6 @@ const alessio = {
 <tr>
 <td width="50%">
 
-### 🎯 Current Focus
-
-- Sviluppo di applicazioni loyalty mobile
-- Implementazione di sistemi di pagamento sicuri
-- Autenticazione biometrica
-- Gestione punti fedeltà e rewards
-- Integrazione Firebase Analytics
-
-</td>
-<td width="50%">
-
 ### 🚀 Expertise
 
 - UI/UX pixel-perfect da Figma
